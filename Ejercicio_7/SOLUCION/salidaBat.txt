@@ -1,0 +1,12 @@
+C:\Users\Usuario\eclipse-workspace\Ejercicio_7>MD NUEVO 
+C:\Users\Usuario\eclipse-workspace\Ejercicio_7>CD NUEVO 
+C:\Users\Usuario\eclipse-workspace\Ejercicio_7\NUEVO>ECHO CREO FICHERO  1>mifichero.txt 
+C:\Users\Usuario\eclipse-workspace\Ejercicio_7\NUEVO>DIR
+ El n£mero de serie del volumen es: 5E95-BEB5
+ Directorio de C:\Users\Usuario\eclipse-workspace\Ejercicio_7\NUEVO
+15/10/2020  20:58    <DIR>          .
+16/10/2020  08:37                15 mifichero.txt
+               2 dirs  451.746.746.368 bytes libres
+C:\Users\Usuario\eclipse-workspace\Ejercicio_7\NUEVO>DIRR
+C:\Users\Usuario\eclipse-workspace\Ejercicio_7\NUEVO>ECHO FIN COMANDOS 
+null

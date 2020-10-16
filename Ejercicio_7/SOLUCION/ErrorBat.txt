@@ -1,0 +1,1 @@
+Error Cannot run program "Recuresos\ejecuta.bat": CreateProcess error=2, El sistema no puede encontrar el archivo especificado
