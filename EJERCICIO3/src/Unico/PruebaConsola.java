@@ -8,7 +8,7 @@ import java.util.List;
 public class PruebaConsola {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
-		
+		//EJERCICIO 3 y 4
 		String content= args[0];
 		
 		File file= new File(content);
