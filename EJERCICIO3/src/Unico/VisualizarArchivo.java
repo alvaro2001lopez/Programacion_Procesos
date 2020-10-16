@@ -10,9 +10,6 @@ import java.nio.file.Paths;
 public class VisualizarArchivo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		
 		//consigue la ruta
 		Path path= Paths.get(args[0]);
 		String content=null;
